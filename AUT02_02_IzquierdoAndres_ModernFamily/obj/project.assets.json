@@ -9638,11 +9638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily.csproj",
+      "projectUniqueName": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily\\AUT02_02_IzquierdoAndres_ModernFamily.csproj",
       "projectName": "AUT02_02_IzquierdoAndres_ModernFamily",
-      "projectPath": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily.csproj",
+      "projectPath": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily\\AUT02_02_IzquierdoAndres_ModernFamily.csproj",
       "packagesPath": "C:\\Users\\2dawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\obj\\",
+      "outputPath": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2dawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

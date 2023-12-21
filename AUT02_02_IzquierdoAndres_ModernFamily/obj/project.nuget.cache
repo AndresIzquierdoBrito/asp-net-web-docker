@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v+/MVoDvZp326McP0apSQz7AwOpFn0nL/27/h4H6PAE1ajkzl9+Dfc7q+fOB2na6v2nOKnTqUXu7n/NRrW97jg==",
+  "dgSpecHash": "1wislbCxM76Jc3gt6W6kJ/jiYfsY9Ed5hV5IF+3bV46nMA0DhVLLRfoFfRsCeDc/V60hdwFYQcrszRtP8g1yDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily.csproj",
+  "projectFilePath": "C:\\Users\\2dawa\\Desktop\\asp net web docker\\AUT02_02_IzquierdoAndres_ModernFamily\\AUT02_02_IzquierdoAndres_ModernFamily.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2dawa\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\2dawa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
